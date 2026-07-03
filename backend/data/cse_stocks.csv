@@ -1,0 +1,51 @@
+ticker,company,sector,pe_ratio,market_cap_lkr_mn,revenue_lkr_mn,eps,dividend_yield,debt_to_equity,last_updated
+JKH.N,John Keells Holdings PLC,Diversified,18.5,252000,145000,12.80,2.1,0.45,2025-01
+COMB.N,Commercial Bank of Ceylon PLC,Banking & Finance,7.2,185000,98000,18.50,3.8,6.20,2025-01
+SAMP.N,Sampath Bank PLC,Banking & Finance,6.8,98000,72000,14.20,3.2,5.80,2025-01
+HNB.N,Hatton National Bank PLC,Banking & Finance,6.5,112000,85000,16.40,4.1,6.10,2025-01
+NDB.N,NDB Bank PLC,Banking & Finance,5.9,35000,42000,10.20,2.8,7.50,2025-01
+BOC.N,Bank of Ceylon,Banking & Finance,,,,,,,2025-01
+PBB.N,People's Bank,Banking & Finance,,,,,,,2025-01
+DFCC.N,DFCC Bank PLC,Banking & Finance,6.2,28000,32000,8.90,2.5,6.80,2025-01
+LOFC.N,LB Finance PLC,Banking & Finance,5.4,18000,22000,7.60,4.2,4.20,2025-01
+SEYB.N,Seylan Bank PLC,Banking & Finance,5.1,22000,28000,6.80,2.1,5.90,2025-01
+DIAL.N,Dialog Axiata PLC,Telecommunications,22.1,285000,125000,2.80,1.8,0.92,2025-01
+SLT.N,Sri Lanka Telecom PLC,Telecommunications,12.4,88000,95000,4.20,3.5,0.68,2025-01
+RCOM.N,Airtel Lanka PLC,Telecommunications,,,,,,,2025-01
+CTC.N,Ceylon Tobacco Company PLC,Consumer Staples,15.8,175000,48000,85.20,12.5,0.28,2025-01
+DIST.N,Distilleries Company of Sri Lanka PLC,Consumer Staples,11.2,128000,62000,5.90,4.8,0.35,2025-01
+LIOC.N,Lanka IOC PLC,Energy,8.9,38000,185000,6.20,5.2,0.18,2025-01
+LOLC.N,LOLC Holdings PLC,Diversified Financial,4.8,95000,85000,42.50,1.5,3.80,2025-01
+WAPO.N,Watawala Plantations PLC,Plantation,9.2,12000,18000,3.80,2.2,0.62,2025-01
+KZOO.N,Keells Food Products PLC,Food & Beverages,18.9,8500,12000,4.20,1.8,0.15,2025-01
+COCR.N,Coco Lanka PLC,Food & Beverages,,,,,,,2025-01
+NEST.N,Nestle Lanka PLC,Food & Beverages,28.5,48000,35000,42.80,6.8,0.22,2025-01
+BUKI.N,Bukit Darah PLC,Plantation,7.5,18000,22000,12.50,2.8,0.85,2025-01
+CARG.N,Cargo Boat Development Company PLC,Transportation,,,,,,,2025-01
+LLUB.N,Lanka Lubricants Limited,Industrials,14.2,9200,8500,8.90,5.5,0.12,2025-01
+HAYL.N,Hayleys PLC,Diversified,12.8,42000,95000,18.50,2.1,1.25,2025-01
+EXPO.N,Hayleys Fabric PLC,Apparel & Textiles,,,,,,,2025-01
+MFL.N,Melstacorp PLC,Diversified,8.5,65000,55000,8.20,3.2,0.68,2025-01
+RICH.N,Richard Pieris and Company PLC,Diversified,10.2,28000,42000,5.80,2.8,0.92,2025-01
+AGST.N,Agstar PLC,Agriculture,,,,,,,2025-01
+TAFL.N,Tokyo Cement Company Lanka PLC,Construction,9.8,18000,28000,4.20,1.5,0.48,2025-01
+ACL.N,ACL Cables PLC,Industrials,11.5,12000,18000,6.80,2.2,0.85,2025-01
+LWL.N,Lanka Walltiles PLC,Construction,8.9,9500,12000,5.20,2.5,0.42,2025-01
+SINS.N,Singer Sri Lanka PLC,Consumer Discretionary,14.5,22000,35000,7.80,3.2,1.15,2025-01
+AMSL.N,Aitken Spence PLC,Diversified,15.8,38000,48000,9.50,1.8,0.88,2025-01
+SPEN.N,Aitken Spence Hotel Holdings PLC,Hotels & Tourism,18.2,15000,22000,4.20,0.8,1.42,2025-01
+AHUN.N,Asian Hotels and Properties PLC,Hotels & Tourism,22.5,28000,18000,8.50,1.5,0.65,2025-01
+SHOT.N,Serendib Hotels PLC,Hotels & Tourism,16.8,12000,15000,2.80,1.2,0.92,2025-01
+REEF.N,Reef Knot PLC,Hotels & Tourism,,,,,,,2025-01
+TJL.N,TLanka Joint Ventures Limited,Industrials,,,,,,,2025-01
+VONE.N,Vision Care Optical Services,Healthcare,,,,,,,2025-01
+NAMU.N,Nawaloka Hospitals PLC,Healthcare,25.8,8500,12000,1.80,0.8,1.85,2025-01
+ASIR.N,Asiri Hospital Holdings PLC,Healthcare,28.2,22000,18000,2.20,0.5,2.15,2025-01
+KAPI.N,Kandy Plantations Ltd,Plantation,,,,,,,2025-01
+AGRO.N,Agro Harapan Lestari PLC,Plantation,,,,,,,2025-01
+CHOT.N,Chevron Lubricants Lanka PLC,Energy,18.5,18000,22000,18.50,8.5,0.05,2025-01
+CTHR.N,Ceylons Enterprise PLC,Retail,,,,,,,2025-01
+BPPL.N,BPPL Holdings PLC,Industrials,12.8,5800,8500,2.80,2.2,0.35,2025-01
+ELPL.N,Elon Lanka PLC,Industrials,,,,,,,2025-01
+CINV.N,Citrus Leisure PLC,Hotels & Tourism,,,,,,,2025-01
+MELS.N,Melwa Hotels PLC,Hotels & Tourism,,,,,,,2025-01
