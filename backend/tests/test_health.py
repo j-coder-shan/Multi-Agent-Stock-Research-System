@@ -30,11 +30,17 @@ def test_root_returns_service_info():
     assert data["status"] == "running"
 
 
-def test_research_stub_returns_501():
-    response = client.post("/api/research", json={"ticker": "AAPL"})
-    assert response.status_code == 501
+def test_research_endpoint_exists():
+    """Research endpoint is wired up (Phase 4+) — returns 200 or 422 for empty body."""
+    # Sending no body → Pydantic validation error (422), proving endpoint exists
+    response = client.post("/api/research", json={})
+    assert response.status_code in (200, 400, 422)
 
 
-def test_history_stub_returns_501():
+def test_history_endpoint_exists():
+    """History endpoint is wired up (Phase 4+) — returns 200 with empty list."""
     response = client.get("/api/history")
-    assert response.status_code == 501
+    assert response.status_code == 200
+    data = response.json()
+    assert "reports" in data
+    assert "total" in data
