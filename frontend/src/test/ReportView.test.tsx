@@ -1,7 +1,7 @@
 import { render, screen } from '@testing-library/react';
-import { describe, it, expect, vi } from 'vitest';
+import { describe, it, expect } from 'vitest';
 import ReportView from '../components/ReportView';
-import { ResearchReport } from '../services/api';
+import type { ResearchReport } from '../services/api';
 
 const mockReport: ResearchReport = {
   id: 'report-uuid-123',
