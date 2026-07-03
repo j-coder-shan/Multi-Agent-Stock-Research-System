@@ -4,7 +4,7 @@ Pydantic request/response models shared across the application.
 """
 from pydantic import BaseModel, Field
 from typing import Optional, List
-from datetime import datetime
+from datetime import datetime, timezone
 from enum import Enum
 
 
@@ -110,7 +110,7 @@ class ResearchReport(BaseModel):
     id: Optional[str] = None
     ticker: str
     exchange: str
-    generated_at: datetime = Field(default_factory=datetime.utcnow)
+    generated_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
     news: Optional[NewsAgentOutput] = None
     financials: Optional[FinancialsAgentOutput] = None
     synthesis: Optional[SynthesisAgentOutput] = None
