@@ -22,7 +22,7 @@ class Settings(BaseSettings):
     # Backend
     backend_host: str = "0.0.0.0"
     backend_port: int = 8000
-    cors_origins: str = "http://localhost:3000"
+    cors_origins: str = "http://localhost:5173,http://localhost:3000"
 
     # Caching
     cache_ttl_seconds: int = 3600
