@@ -148,6 +148,12 @@ npm run dev
 
 ---
 
+## 🚀 Production Deployment
+
+For complete details on deploying the application to production using **Render** (backend), **Vercel** (frontend), and **Supabase** (database), refer to the [Production Deployment Guide](file:///c:/Users/PRABO/OneDrive/Documents/GitHub/Multi-Agent-Stock-Research-System/DEPLOYMENT.md).
+
+---
+
 ## 📋 Project Milestones & Roadmap
 
 | Milestone | Scope | Status |
